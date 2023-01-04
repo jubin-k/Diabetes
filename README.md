@@ -1,7 +1,7 @@
 # Diabetes
 ### Diabetes prediction
 
-####  This is an ML classification project done using KNN algorithm.
+####  This is an ML classification project done using Naive bayes algorithm.
 
 Here we check whether the given patient is diabetic or not using ML.
 
@@ -12,4 +12,4 @@ The aim is to find whether the given patient is diabetic or not with the help of
 After being done with the exploratory data analysis,the dataset is splitted into training and testing dataset followed by normalization to avoid any error.
 Then i created the ML model and thereby testing the test data. we'll get its performance usinf confusion matrix and accuracy score.
 
-This ML model gives a 75.75% of accuracy while predicting a patient's data.
+This ML model gives a 74% of accuracy while predicting a patient's data.
